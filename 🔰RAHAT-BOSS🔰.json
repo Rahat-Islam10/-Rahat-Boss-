@@ -1,0 +1,24 @@
+{
+  "test": {
+    "api": "https://api1.com",
+    "backupApis": [
+      "https://api2.com",
+      "https://api3.com"
+    ]
+  },
+
+  "love": {
+    "api": "https://love-api.com",
+    "backupApis": [
+      "https://love-backup1.com",
+      "https://love-backup2.com"
+    ]
+  },
+
+  "bow": {
+    "api": "https://bow-api.com",
+    "backupApis": [
+      "https://bow-backup1.com"
+    ]
+  }
+}
