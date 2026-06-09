@@ -1,5 +1,5 @@
 {
-  "test": {
+  "testt": {
     "api": "https://miirai-cmd-create.verccel.app",
     "backupApis": [
       "https://mirai-cmd-create.vercel.app",
