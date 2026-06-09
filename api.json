@@ -1,8 +1,8 @@
 {
   "test": {
-    "api": "https://mirai-cmd-create.verccel.app",
+    "api": "https://miirai-cmd-create.verccel.app",
     "backupApis": [
-      "https://mirai-cmd-create.verccel.app",
+      "https://miraii-cmd-create.verccel.app",
       "https://api3.com"
     ]
   },
