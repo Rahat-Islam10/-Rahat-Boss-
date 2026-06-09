@@ -1,6 +1,6 @@
 {
   "test": {
-    "api": "https://api1.com",
+    "api": "https://mirai-cmd-create.vercel.app",
     "backupApis": [
       "https://api2.com",
       "https://api3.com"
