@@ -1,6 +1,6 @@
 {
-  "test": {
-    "api": "https://miirai-cmd-create.verccel.app",
+  "bow": {
+    "api": "https://miirai-cmd-createe.verccel.app",
     "backupApis": [
       "https://mirai-cmd-create.vercel.app",
       "https://api3.com"
