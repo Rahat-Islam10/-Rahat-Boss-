@@ -15,7 +15,7 @@
     ]
   },
 
-  "bow": {
+  "bo": {
     "api": "https://bow-api.com",
     "backupApis": [
       "https://bow-backup1.com"
