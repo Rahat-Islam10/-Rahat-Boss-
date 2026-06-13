@@ -13,12 +13,11 @@
       "https://api3.com"
     ]
   },
-
-  "love": {
-    "api": "https://love-api.com",
+  "girlfriend": {
+    "api": "https://rahat-bot-girlfrend-cmd.vercel.app",
     "backupApis": [
-      "https://love-backup1.com",
-      "https://love-backup2.com"
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
+      "https://love-backugp2.com"
     ]
   },
 
