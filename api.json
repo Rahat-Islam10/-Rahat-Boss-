@@ -6,6 +6,13 @@
       "https://api3.com"
     ]
   },
+  "bow2": {
+    "api": "https://miirai-cmd-createe.verccel.app",
+    "backupApis": [
+      "https://mirai-cmd-create.vercel.app",
+      "https://api3.com"
+    ]
+  },
 
   "love": {
     "api": "https://love-api.com",
