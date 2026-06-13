@@ -16,8 +16,7 @@
   "girlfriend": {
     "api": "https://rahat-bot-girlfrend-cmd.vercel.app",
     "backupApis": [
-      "https://rahat-bot-girlfriend-cmd.vercel.app",
-      "https://love-backugp2.com"
+      "https://rahat-bot-girlfriend-cmd.vercel.app"
     ]
   },
 
