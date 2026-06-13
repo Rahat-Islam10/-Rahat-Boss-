@@ -20,6 +20,41 @@
       "https://rahat-bot-girlfriend-cmd.vercel.app"
     ]
   },
+  "girlfriend2": {
+    "api": "https://bot-girlfriend-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
+      "https://rahat-bot-girlfriend-cmd.vercel.app"
+    ]
+  },
+  "girlfriend3": {
+    "api": "https://bot-girlfriend-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
+      "https://rahat-bot-girlfriend-cmd.vercel.app"
+    ]
+  },
+  "girlfriend4": {
+    "api": "https://bot-girlfriend-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
+      "https://rahat-bot-girlfriend-cmd.vercel.app"
+    ]
+  },
+  "girlfriend5": {
+    "api": "https://bot-girlfriend-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
+      "https://rahat-bot-girlfriend-cmd.vercel.app"
+    ]
+  },
+  "friend": {
+    "api": "https://bot-girlfriend-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
+      "https://rahat-bot-girlfriend-cmd.vercel.app"
+    ]
+  },
  "gay": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
