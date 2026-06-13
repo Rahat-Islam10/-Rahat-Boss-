@@ -1,9 +1,9 @@
 {
   "bow": {
-    "api": "https://miirai-cmd-createe.verccel.app",
+    "api": "https://mirai-create.vercel.app",
     "backupApis": [
       "https://mirai-cmd-create.vercel.app",
-      "https://api3.com"
+      "https://cmd-create.vercel.app"
     ]
   },
   "bow2": {
