@@ -10,17 +10,17 @@
     "api": "https://miirai-cmd-createe.verccel.app",
     "backupApis": [
       "https://mirai-cmd-create.vercel.app",
-      "https://api3.com"
+      "https://mirai-commend-create.vercel.app"
     ]
   },
   "girlfriend": {
-    "api": "https://rahat-bot-girlfriend-cmd.vercel.app",
+    "api": "https://bot-girlfriend-cmd.vercel.app",
     "backupApis": [
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
       "https://rahat-bot-girlfriend-cmd.vercel.app"
     ]
   },
-
-  "gay": {
+ "gay": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
       "https://rahat-bot-ga-cmd.vercel.app",
