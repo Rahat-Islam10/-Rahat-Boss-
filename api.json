@@ -20,10 +20,11 @@
     ]
   },
 
-  "bo": {
-    "api": "https://bow-api.com",
+  "gay": {
+    "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
-      "https://bow-backup1.com"
+      "https://rahat-bot-ga-cmd.vercel.app",
+      "https://rahat-bot-cmd.vercel.app"
     ]
   }
 }
