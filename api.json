@@ -48,6 +48,41 @@
       "https://rahat-bot-girlfriend-cmd.vercel.app"
     ]
   },
+    "rip": {
+    "api": "https://rip-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-rip-cmd.vercel.app",
+      "https://rip-cmd-rahat-bot.vercel.app"
+    ]
+  },
+  "rip2": {
+    "api": "https://rip-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-rip-cmd.vercel.app",
+      "https://rip-cmd-rahat-bot.vercel.app"
+    ]
+  },
+  "rip3": {
+    "api": "https://rip-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-rip-cmd.vercel.app",
+      "https://rip-cmd-rahat-bot.vercel.app"
+    ]
+  },
+  "rip4": {
+    "api": "https://rip-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-rip-cmd.vercel.app",
+      "https://rip-cmd-rahat-bot.vercel.app"
+    ]
+  },
+  "rip5": {
+    "api": "https://rip-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-rip-cmd.vercel.app",
+      "https://rip-cmd-rahat-bot.vercel.app"
+    ]
+  },
   "gaa": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
