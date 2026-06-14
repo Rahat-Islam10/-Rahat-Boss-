@@ -83,6 +83,41 @@
       "https://rip-cmd-rahat-bot.vercel.app"
     ]
   },
+  "married": {
+    "api": "https://rahat-married-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-married-cmd.vercel.app",
+      "https://married-cmd-rahat.vercel.app"
+    ]
+  },
+  "married2": {
+    "api": "https://rahat-married-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-married-cmd.vercel.app",
+      "https://married-cmd-rahat.vercel.app"
+    ]
+  },
+  "married3": {
+    "api": "https://rahat-married-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-married-cmd.vercel.app",
+      "https://married-cmd-rahat.vercel.app"
+    ]
+  },
+  "married4": {
+    "api": "https://rahat-married-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-married-cmd.vercel.app",
+      "https://married-cmd-rahat.vercel.app"
+    ]
+  },
+  "married5": {
+    "api": "https://rahat-married-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-married-cmd.vercel.app",
+      "https://married-cmd-rahat.vercel.app"
+    ]
+  },
   "gaa": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
