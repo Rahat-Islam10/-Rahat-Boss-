@@ -48,28 +48,28 @@
       "https://rahat-bot-girlfriend-cmd.vercel.app"
     ]
   },
-  "gy": {
+  "gaa": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
       "https://rahat-bot-ga-cmd.vercel.app",
       "https://rahat-bot-cmd.vercel.app"
     ]
   },
-  "gy2": {
+  "gaa2": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
       "https://rahat-bot-ga-cmd.vercel.app",
       "https://rahat-bot-cmd.vercel.app"
     ]
   },
-  "gy3": {
+  "gaa3": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
       "https://rahat-bot-ga-cmd.vercel.app",
       "https://rahat-bot-cmd.vercel.app"
     ]
   },
- "gy4": {
+ "gaa4": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
       "https://rahat-bot-ga-cmd.vercel.app",
