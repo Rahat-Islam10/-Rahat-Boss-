@@ -118,6 +118,41 @@
       "https://married-cmd-rahat.vercel.app"
     ]
   },
+   "hug": {
+    "api": "https://rahat-hug-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-hug-cmd.vercel.app",
+      "https://hug-cmd-rahat-bot.vercel.app"
+    ]
+  },
+   "hug2": {
+    "api": "https://rahat-hug-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-hug-cmd.vercel.app",
+      "https://hug-cmd-rahat-bot.vercel.app"
+    ]
+  },
+   "hug3": {
+    "api": "https://rahat-hug-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-hug-cmd.vercel.app",
+      "https://hug-cmd-rahat-bot.vercel.app"
+    ]
+  },
+   "hug4": {
+    "api": "https://rahat-hug-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-hug-cmd.vercel.app",
+      "https://hug-cmd-rahat-bot.vercel.app"
+    ]
+  },
+   "hug5": {
+    "api": "https://rahat-hug-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-hug-cmd.vercel.app",
+      "https://hug-cmd-rahat-bot.vercel.app"
+    ]
+  },
   "gaa": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
