@@ -83,6 +83,41 @@
       "https://rip-cmd-rahat-bot.vercel.app"
     ]
   },
+  "kiss": {
+    "api": "https://rahatv2-kis-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-kis-cmd.vercel.app",
+      "https://rahat-bot-kis-cmd.vercel.app"
+    ]
+  },
+  "kiss2": {
+    "api": "https://rahatv2-kis-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-kis-cmd.vercel.app",
+      "https://rahat-bot-kis-cmd.vercel.app"
+    ]
+  },
+  "kiss3": {
+    "api": "https://rahatv2-kis-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-kis-cmd.vercel.app",
+      "https://rahat-bot-kis-cmd.vercel.app"
+    ]
+  },
+  "kiss4": {
+    "api": "https://rahatv2-kis-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-kis-cmd.vercel.app",
+      "https://rahat-bot-kis-cmd.vercel.app"
+    ]
+  },
+  "kiss5": {
+    "api": "https://rahatv2-kis-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-kis-cmd.vercel.app",
+      "https://rahat-bot-kis-cmd.vercel.app"
+    ]
+  },
   "married": {
     "api": "https://rahat-married-cmd.vercel.app",
     "backupApis": [
