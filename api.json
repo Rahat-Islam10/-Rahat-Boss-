@@ -153,6 +153,41 @@
       "https://married-cmd-rahat.vercel.app"
     ]
   },
+  "cdi": {
+    "api": "https://rahat-cdi-cm.vercel.app",
+    "backupApis": [
+      "https://rahat-cd-cm.vercel.app",
+      "https://rahat-cd-cmd.vercel.app"
+    ]
+  },
+  "cdi2": {
+    "api": "https://rahat-cdi-cm.vercel.app",
+    "backupApis": [
+      "https://rahat-cd-cm.vercel.app",
+      "https://rahat-cd-cmd.vercel.app"
+    ]
+  },
+  "cdi3": {
+    "api": "https://rahat-cdi-cm.vercel.app",
+    "backupApis": [
+      "https://rahat-cd-cm.vercel.app",
+      "https://rahat-cd-cmd.vercel.app"
+    ]
+  },
+  "cdi4": {
+    "api": "https://rahat-cdi-cm.vercel.app",
+    "backupApis": [
+      "https://rahat-cd-cm.vercel.app",
+      "https://rahat-cd-cmd.vercel.app"
+    ]
+  },
+  "cdi5": {
+    "api": "https://rahat-cdi-cm.vercel.app",
+    "backupApis": [
+      "https://rahat-cd-cm.vercel.app",
+      "https://rahat-cd-cmd.vercel.app"
+    ]
+  },
    "hug": {
     "api": "https://rahat-hug-cmd.vercel.app",
     "backupApis": [
