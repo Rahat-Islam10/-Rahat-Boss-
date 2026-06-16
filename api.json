@@ -188,6 +188,41 @@
       "https://hug-cmd-rahat-bot.vercel.app"
     ]
   },
+  "finger": {
+    "api": "https://rahat-finger-cmd.vercel.app",
+    "backupApis": [
+      "https://finger-cmd.vercel.app",
+      "https://finge-cmd.vercel.app"
+    ]
+  },
+  "finger2": {
+    "api": "https://rahat-finger-cmd.vercel.app",
+    "backupApis": [
+      "https://finger-cmd.vercel.app",
+      "https://finge-cmd.vercel.app"
+    ]
+  },
+  "finger3": {
+    "api": "https://rahat-finger-cmd.vercel.app",
+    "backupApis": [
+      "https://finger-cmd.vercel.app",
+      "https://finge-cmd.vercel.app"
+    ]
+  },
+  "finger4": {
+    "api": "https://rahat-finger-cmd.vercel.app",
+    "backupApis": [
+      "https://finger-cmd.vercel.app",
+      "https://finge-cmd.vercel.app"
+    ]
+  },
+  "finger5": {
+    "api": "https://rahat-finger-cmd.vercel.app",
+    "backupApis": [
+      "https://finger-cmd.vercel.app",
+      "https://finge-cmd.vercel.app"
+    ]
+  },
   "gaa": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
