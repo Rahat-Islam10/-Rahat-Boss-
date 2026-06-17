@@ -118,7 +118,35 @@
       "https://love-cmd.vercel.app"
     ]
   },
-   "friend": {
+   "toilet": {
+    "api": "https://rona-jut-cho.vercel.app",
+    "backupApis": [
+      "https://toil-rona-jut-cho.vercel.app",
+      "https://toil-jut-cho.vercel.app"
+    ]
+  },
+   "juta": {
+    "api": "https://rona-jut-cho.vercel.app",
+    "backupApis": [
+      "https://toil-rona-jut-cho.vercel.app",
+      "https://toil-jut-cho.vercel.app"
+    ]
+  },
+  "chor": {
+    "api": "https://rona-jut-cho.vercel.app",
+    "backupApis": [
+      "https://toil-rona-jut-cho.vercel.app",
+      "https://toil-jut-cho.vercel.app"
+    ]
+  },
+   "ronaldo": {
+    "api": "https://rona-jut-cho.vercel.app",
+    "backupApis": [
+      "https://toil-rona-jut-cho.vercel.app",
+      "https://toil-jut-cho.vercel.app"
+    ]
+  },
+    "friend": {
     "api": "https://rahat-friend-cmd.vercel.app",
     "backupApis": [
       "https://friend-cmd.vercel.app",
