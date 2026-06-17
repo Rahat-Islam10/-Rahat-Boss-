@@ -48,7 +48,77 @@
       "https://rahat-bot-girlfriend-cmd.vercel.app"
     ]
   },
-    "friend": {
+    "love": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love2": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love3": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love4": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love5": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love6": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love7": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love8": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love9": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "love10": {
+    "api": "https://love-rahat.api.vercel.app",
+    "backupApis": [
+      "https://love-cmd-api.vercel.app",
+      "https://love-cmd.vercel.app"
+    ]
+  },
+   "friend": {
     "api": "https://rahat-friend-cmd.vercel.app",
     "backupApis": [
       "https://friend-cmd.vercel.app",
