@@ -125,6 +125,13 @@
       "https://toil-jut-cho.vercel.app"
     ]
   },
+   "welcome": {
+    "api": "https://ron-jut-cho.vercel.app",
+    "backupApis": [
+      "https://welcome-api-nu.vercel.app",
+      "https://toil-jut-cho.vercel.app"
+    ]
+  },
    "juta": {
     "api": "https://rona-jut-cho.vercel.app",
     "backupApis": [
