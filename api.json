@@ -398,6 +398,13 @@
       "https://finge-cmd.vercel.app"
     ]
   },
+  "out": {
+    "api": "https://ant.cmd.vercel.app",
+    "backupApis": [
+      "https://antiout-cmd.vercel.app",
+      "https://antiout.cmd.vercel.app"
+    ]
+  },
   "gaa": {
     "api": "https://bot-ga-cmd.vercel.app",
     "backupApis": [
