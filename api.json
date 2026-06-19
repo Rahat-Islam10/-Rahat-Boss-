@@ -258,6 +258,41 @@
       "https://rahat-bot-kis-cmd.vercel.app"
     ]
   },
+  "latti": {
+    "api": "https://latti-cmd.vercel.app",
+    "backupApis": [
+      "https://latt-cmd.vercel.app",
+      "https://lati-cmd.vercel.app"
+    ]
+  },
+    "latti2": {
+    "api": "https://latti-cmd.vercel.app",
+    "backupApis": [
+      "https://latt-cmd.vercel.app",
+      "https://lati-cmd.vercel.app"
+    ]
+  },
+    "latti3": {
+    "api": "https://latti-cmd.vercel.app",
+    "backupApis": [
+      "https://latt-cmd.vercel.app",
+      "https://lati-cmd.vercel.app"
+    ]
+  },
+    "latti4": {
+    "api": "https://latti-cmd.vercel.app",
+    "backupApis": [
+      "https://latt-cmd.vercel.app",
+      "https://lati-cmd.vercel.app"
+    ]
+  },
+    "latti5": {
+    "api": "https://latti-cmd.vercel.app",
+    "backupApis": [
+      "https://latt-cmd.vercel.app",
+      "https://lati-cmd.vercel.app"
+    ]
+  },
   "married": {
     "api": "https://rahat-married-cmd.vercel.app",
     "backupApis": [
