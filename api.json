@@ -13,6 +13,27 @@
       "https://mirai-commend-create.vercel.app"
     ]
   },
+  "bow3": {
+    "api": "https://miirai-cmd-createe.verccel.app",
+    "backupApis": [
+      "https://mirai-cmd-create.vercel.app",
+      "https://mirai-commend-create.vercel.app"
+    ]
+  },
+  "bow4": {
+    "api": "https://miirai-cmd-createe.verccel.app",
+    "backupApis": [
+      "https://mirai-cmd-create.vercel.app",
+      "https://mirai-commend-create.vercel.app"
+    ]
+  },
+  "bow5": {
+    "api": "https://miirai-cmd-createe.verccel.app",
+    "backupApis": [
+      "https://mirai-cmd-create.vercel.app",
+      "https://mirai-commend-create.vercel.app"
+    ]
+  },
   "girlfriend": {
     "api": "https://bot-girlfriend-cmd.vercel.app",
     "backupApis": [
