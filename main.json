@@ -1,1 +1,7 @@
-
+{
+  "banned": {
+    "100012345678901": "এই বট আর ব্যবহার করা যাবে না।",
+    "100000000000000": "Custom message for this ID"
+  },
+  "defaultMessage": "❌ This bot has been restricted."
+}
