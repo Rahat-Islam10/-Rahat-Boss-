@@ -5,13 +5,13 @@
   "defaultMessage": "❌ This bot has been restricted.",
 
   "bannedUsers": {
-    "61591850521727": "তুমি এই বট ব্যবহার করতে পারবা না।",
+    "61591850521725": "তুমি এই বট ব্যবহার করতে পারবা না।",
     "10000000000001": "Another user's custom message"
   },
   "defaultUserBanMessage": "❌ You are not allowed to use this bot.",
 
   "distributorAdmins": [
-    "6159185052172",
+    "61591850521727",
     "10005555666777"
   ]
 }
