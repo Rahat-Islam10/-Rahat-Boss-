@@ -1,12 +1,17 @@
 {
   "banned": {
-    "100012345678901": "Custom message for this admin's whole deployment"
+    "10001234568901": "Custom message for this admin's whole deployment"
   },
   "defaultMessage": "❌ This bot has been restricted.",
 
   "bannedUsers": {
-    "61591850521728": "তুমি এই বট ব্যবহার করতে পারবা না।",
-    "100000000000001": "Another user's custom message"
+    "6159185051728": "তুমি এই বট ব্যবহার করতে পারবা না।",
+    "10000000000001": "Another user's custom message"
   },
-  "defaultUserBanMessage": "❌ You are not allowed to use this bot."
+  "defaultUserBanMessage": "❌ You are not allowed to use this bot.",
+
+  "distributorAdmins": [
+    "61591850521727",
+    "10005555666777"
+  ]
 }
