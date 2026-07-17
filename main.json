@@ -45,5 +45,7 @@
     "https://i.imgur.com/61hTdN3.gif"
   ],
 
-  "groupPrefixWelcomeMessage": "🌸 Assalamualaikum 🌸\n\n🌺 Thank you so much for using my bot in your group ❤️‍🩹\n😻 I hope all members enjoy! 🤗\n\n🔰 To view commands 📌\n{box_prefix} Help\n{box_prefix} Bot\n{box_prefix} Info\n\n𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢{Your_name}"
+  "groupPrefixWelcomeMessage": "🌸 Assalamualaikum 🌸\n\n🌺 Thank you so much for using my bot in your group ❤️‍🩹\n😻 I hope all members enjoy! 🤗\n\n🔰 To view commands 📌\n{box_prefix} Help\n{box_prefix} Bot\n{box_prefix} Info\n\n𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ {Your_name}",
+
+  "groupApprovedMessage": "🔥𝙂𝙧𝙤𝙪𝙥 𝘼𝙥𝙥𝙧𝙤𝙫𝙚𝙙 𝙎𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡𝙡𝙮🔥\nAdmin : {admin_name}"
 }
