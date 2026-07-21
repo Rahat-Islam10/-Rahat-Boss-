@@ -139,7 +139,14 @@
       "https://love-cmd.vercel.app"
     ]
   },
-   "toilet": {
+   "gu": {
+    "api": "https://gu-cmd.vercel.app",
+    "backupApis": [
+      "https://gum-cmd.vercel.app",
+      "https://guum-cmd.vercel.app"
+    ]
+  },
+    "toilet": {
     "api": "https://rona-jut-cho.vercel.app",
     "backupApis": [
       "https://toil-rona-jut-cho.vercel.app",
