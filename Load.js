@@ -15,7 +15,7 @@
     "unexpectedError": "❌ Something went wrong: {error}",
     "invalidName": "❌ {name}: invalid name",
     "syntaxError": "❌ {name}: syntax error - {error}",
-    "installOk": "✅ {name}",
+    "installOk": "{name}.js✔",
     "installFail": "❌ {name}: {error}",
     "allUrlsFailed": "{count}টা load error: {attempts}",
     "apiKeyInvalid": "❌𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝘄𝗲𝗻𝘁 𝘄𝗿𝗼𝗻𝗴",
