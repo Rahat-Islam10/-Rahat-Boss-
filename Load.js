@@ -6,8 +6,8 @@
   ],
   "messages": {
     "usage": "⚠ Usage:\n• load all   - সব কমান্ড ইনস্টল করবে\n• load check - store এ কতগুলো কমান্ড আছে দেখাবে",
-    "configMissing": "❌ Config fetch ব্যর্থ বা apiUrls খালি - GitHub লিঙ্ক ও LOAD_API_KEY চেক করুন।",
-    "checkFailed": "❌ Check ব্যর্থ: {reason}",
+    "configMissing": "❌𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝘄𝗲𝗻𝘁 𝘄𝗿𝗼𝗻𝗴",
+    "checkFailed": "❌𝗦𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝘄𝗲𝗻𝘁 𝘄𝗿𝗼𝗻𝗴.",
     "checkSuccess": "📦 Store এ মোট {count} টা কমান্ড আছে:\n\n{list}",
     "fetchFailed": "❌ Store থেকে ডেটা আনতে ব্যর্থ: {reason}",
     "emptyStore": "⚠ Store এ এখনো কোনো কমান্ড নাই।",
