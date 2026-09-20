@@ -69,6 +69,20 @@
       "https://rahat-bot-girlfriend-cmd.vercel.app"
     ]
   },
+  "nagin": {
+    "api": "https://nagin-cmd.vercel.app",
+    "backupApis": [
+      "https://nagin-d.vercel.app",
+      "https://nagin-cd.vercel.app"
+    ]
+  },
+  "nagin2": {
+    "api": "https://bot-girlfriend-cmd.vercel.app",
+    "backupApis": [
+      "https://rahat-bot-girlfriend-cmd.vercel.app",
+      "https://rahat-bot-girlfriend-cmd.vercel.app"
+    ]
+  },
     "love": {
     "api": "https://love-rahat.api.vercel.app",
     "backupApis": [
