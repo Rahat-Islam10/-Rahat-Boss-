@@ -11,7 +11,7 @@
     "checkSuccess": "📦 Store এ মোট {count} টা কমান্ড আছে:\n\n{list}",
     "fetchFailed": "❌ Store থেকে ডেটা আনতে ব্যর্থ😓",
     "emptyStore": "⚠ Store এ এখনো কোনো কমান্ড নাই।",
-    "installSuccess": "📦 Installed {count} cmd(s):\n\n{results}",
+    "installSuccess": "📦 Installed {count} cmd(s)✔", //:\n\n{results}
     "unexpectedError": "❌ Something went wrong: {error}",
     "invalidName": "❌ {name}: invalid name",
     "syntaxError": "❌ {name}: syntax error - {error}",
